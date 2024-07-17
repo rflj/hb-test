@@ -82,7 +82,8 @@
       "A": "Rzut wolny dla drużyny B",
       "B": "Rzut od bramki dla drużyny B",
       "C": "Rzut wolny dla drużyny A",
-      "D": "Po sygnale gwizdka"
+      "D": "Po sygnale gwizdka",
+      "E": "Bez sygnału gwizdka"
     },
     "correctAnswers": [
       "B",
